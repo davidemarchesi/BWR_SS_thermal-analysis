@@ -1,1 +1,1 @@
-# BWR Single Rod steady state analysis
+# BWR Fuel Rod steady state analysis
